@@ -1,0 +1,28 @@
+# This block represents the 'pyperclip' package used in the project.
+[[package]]
+# Indicated to be in the 'main' category, meaning it's a primary dependency.
+category = "main"
+# Describes what this package does. Here it's used for clipboard operations for plain text.
+description = "A cross-platform clipboard module for Python. (Only handles plain text for now.)"
+# The name of the package.
+name = "pyperclip"
+# Indicates that this package is not optional, it's required.
+optional = false
+# Indicates that this package is compatible with any Python version.
+python-versions = "*"
+# The version of the package. Version '1.8.0' is used in this project.
+version = "1.8.0"
+
+# The metadata section contains overall information about the project and its dependencies.
+[metadata]
+# A hash value for the dependency tree. This is used to verify the integrity of the dependencies.
+content-hash = "5d9cc2f990cafa19af5e533437016df532282d216cc52a4ec219cd256360edc3"
+# The Python versions supported for the project.
+python-versions = "^3.8"
+
+# This section contains file and hash information for the packages. 
+[metadata.files]
+# File and hash value for the 'pyperclip' package.
+pyperclip = [
+    {file = "pyperclip-1.8.0.tar.gz", hash = "sha256:b75b975160428d84608c26edba2dec146e7799566aea42c1fe1b32e72b6028f2"},
+]

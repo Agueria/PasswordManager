@@ -22,7 +22,7 @@ This is a simple but secure Password Manager built using Python's Tkinter librar
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Password-Manager.git
+git clone https://github.com/Agueria/Password-Manager.git
 ```
 
 ### Install Required Packages

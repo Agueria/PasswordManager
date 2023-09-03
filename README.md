@@ -21,21 +21,21 @@ This is a simple but secure Password Manager built using Python's Tkinter librar
 
 ### Clone the Repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/YourUsername/Password-Manager.git
-\`\`\`
+```
 
 ### Install Required Packages
 
-\`\`\`bash
+```bash
 pip install pyperclip
-\`\`\`
+```
 
 ### Run the Application
 
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 Follow the GUI instructions to generate, save, and retrieve passwords.
 
